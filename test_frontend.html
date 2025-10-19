@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>前端检测测试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .upload-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 2px dashed #ccc;
+            border-radius: 10px;
+        }
+        .result-section {
+            margin-top: 20px;
+        }
+        #imageCanvas {
+            max-width: 100%;
+            border: 1px solid #ddd;
+            margin-top: 10px;
+        }
+        .alert {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .alert.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .alert.warning {
+            background-color: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+        .alert.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>无人机检测前端测试</h1>
+    
+    <div class="upload-section">
+        <h2>图片上传检测</h2>
+        <input type="file" id="imageInput" accept="image/*">
+        <div class="loading" id="loading">检测中...</div>
+        <div id="alerts"></div>
+    </div>
+    
+    <div class="result-section">
+        <canvas id="imageCanvas"></canvas>
+        <div id="detectionResults"></div>
+    </div>
+
+    <script>
+        class DroneDetector {
+            constructor() {
+                this.imageInput = document.getElementById('imageInput');
+                this.canvas = document.getElementById('imageCanvas');
+                this.ctx = this.canvas.getContext('2d');
+                this.loadingEl = document.getElementById('loading');
+                this.alertsEl = document.getElementById('alerts');
+                this.resultsEl = document.getElementById('detectionResults');
+                
+                this.imageInput.addEventListener('change', (e) => this.handleImageUpload(e));
+            }
+            
+            showLoading(show) {
+                this.loadingEl.style.display = show ? 'block' : 'none';
+            }
+            
+            showAlert(message, type = 'info') {
+                const alert = document.createElement('div');
+                alert.className = `alert ${type}`;
+                alert.textContent = message;
+                this.alertsEl.appendChild(alert);
+                
+                setTimeout(() => {
+                    if (alert.parentNode) {
+                        alert.parentNode.removeChild(alert);
+                    }
+                }, 5000);
+            }
+            
+            async handleImageUpload(event) {
+                const file = event.target.files[0];
+                if (!file) return;
+                
+                // 显示图片
+                const img = new Image();
+                img.onload = () => {
+                    this.canvas.width = img.width;
+                    this.canvas.height = img.height;
+                    this.ctx.drawImage(img, 0, 0);
+                };
+                img.src = URL.createObjectURL(file);
+                
+                const formData = new FormData();
+                formData.append('image', file);
+                
+                try {
+                    this.showLoading(true);
+                    const response = await fetch('/api/detect-image', {
+                        method: 'POST',
+                        body: formData
+                    });
+                    
+                    const result = await response.json();
+                    console.log('检测结果:', result);
+                    
+                    if (result.success) {
+                        // 在图片上绘制检测结果
+                        this.drawDetectionResults(result.detections || []);
+                        
+                        // 显示检测结果
+                        this.displayResults(result);
+                        
+                        if (result.droneCount > 0) {
+                            this.showAlert(`检测完成！发现 ${result.droneCount} 个无人机`, 'warning');
+                            this.playBeep(800, 200); // 警报音
+                        } else {
+                            this.showAlert('图片检测完成，未发现无人机', 'success');
+                        }
+                    } else {
+                        this.showAlert('检测失败: ' + result.error, 'error');
+                    }
+                    
+                } catch (error) {
+                    console.error('图片上传失败:', error);
+                    this.showAlert('图片上传失败: ' + error.message, 'error');
+                } finally {
+                    this.showLoading(false);
+                }
+            }
+            
+            drawDetectionResults(detections) {
+                if (!detections || detections.length === 0) return;
+                
+                this.ctx.strokeStyle = '#ff0000';
+                this.ctx.lineWidth = 3;
+                this.ctx.fillStyle = '#ff0000';
+                this.ctx.font = '16px Arial';
+                
+                detections.forEach((detection, index) => {
+                    const { bbox, confidence, class: className } = detection;
+                    const [x, y, width, height] = bbox;
+                    
+                    console.log(`绘制边界框 ${index + 1}:`, { x, y, width, height, confidence });
+                    
+                    // 绘制边界框
+                    this.ctx.strokeRect(x, y, width, height);
+                    
+                    // 绘制标签背景
+                    const label = `${className || 'drone'} ${(confidence * 100).toFixed(1)}%`;
+                    const textWidth = this.ctx.measureText(label).width;
+                    this.ctx.fillRect(x, y - 25, textWidth + 10, 25);
+                    
+                    // 绘制标签文字
+                    this.ctx.fillStyle = '#ffffff';
+                    this.ctx.fillText(label, x + 5, y - 5);
+                    this.ctx.fillStyle = '#ff0000';
+                });
+            }
+            
+            displayResults(result) {
+                const { droneCount, detections, inferenceTime, timestamp } = result;
+                
+                let html = `
+                    <h3>检测结果</h3>
+                    <p><strong>检测时间:</strong> ${new Date(timestamp).toLocaleString()}</p>
+                    <p><strong>无人机数量:</strong> ${droneCount}</p>
+                    <p><strong>推理时间:</strong> ${inferenceTime}ms</p>
+                `;
+                
+                if (detections && detections.length > 0) {
+                    html += '<h4>检测详情:</h4>';
+                    detections.forEach((detection, index) => {
+                        html += `
+                            <div style="margin: 10px 0; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+                                <strong>无人机 ${index + 1}:</strong><br>
+                                置信度: ${(detection.confidence * 100).toFixed(1)}%<br>
+                                位置: (${detection.bbox[0]}, ${detection.bbox[1]})<br>
+                                尺寸: ${detection.bbox[2]} x ${detection.bbox[3]}
+                            </div>
+                        `;
+                    });
+                }
+                
+                this.resultsEl.innerHTML = html;
+            }
+            
+            playBeep(frequency, duration) {
+                try {
+                    const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                    const oscillator = audioContext.createOscillator();
+                    const gainNode = audioContext.createGain();
+                    
+                    oscillator.connect(gainNode);
+                    gainNode.connect(audioContext.destination);
+                    
+                    oscillator.frequency.value = frequency;
+                    oscillator.type = 'sine';
+                    
+                    gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+                    gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + duration / 1000);
+                    
+                    oscillator.start(audioContext.currentTime);
+                    oscillator.stop(audioContext.currentTime + duration / 1000);
+                } catch (error) {
+                    console.log('无法播放警报音:', error);
+                }
+            }
+        }
+        
+        // 初始化检测器
+        document.addEventListener('DOMContentLoaded', () => {
+            new DroneDetector();
+        });
+    </script>
+</body>
+</html>

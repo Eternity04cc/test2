@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>测试无人机检测</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ccc; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; }
+        #result { margin-top: 20px; padding: 10px; background: #f5f5f5; }
+    </style>
+</head>
+<body>
+    <h1>无人机检测API测试</h1>
+    
+    <div class="test-section">
+        <h3>测试图片上传检测</h3>
+        <input type="file" id="imageInput" accept="image/*">
+        <button onclick="testImageUpload()">测试检测</button>
+    </div>
+    
+    <div id="result"></div>
+    
+    <script>
+        async function testImageUpload() {
+            const fileInput = document.getElementById('imageInput');
+            const file = fileInput.files[0];
+            
+            if (!file) {
+                alert('请选择一个图片文件');
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('image', file);
+            
+            try {
+                document.getElementById('result').innerHTML = '检测中...';
+                
+                const response = await fetch('http://localhost:3000/api/detect-image', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                document.getElementById('result').innerHTML = `
+                    <h3>检测结果:</h3>
+                    <p><strong>成功:</strong> ${result.success}</p>
+                    <p><strong>无人机数量:</strong> ${result.droneCount}</p>
+                    <p><strong>应触发短警报:</strong> ${result.shouldTriggerShortAlert}</p>
+                    <p><strong>应触发长警报:</strong> ${result.shouldTriggerLongAlert}</p>
+                    <p><strong>检测详情:</strong> ${JSON.stringify(result.detections, null, 2)}</p>
+                    <p><strong>推理时间:</strong> ${result.inferenceTime}ms</p>
+                `;
+                
+                // 如果检测到无人机，播放警报音
+                if (result.droneCount > 0) {
+                    playTestAlarm();
+                }
+                
+            } catch (error) {
+                document.getElementById('result').innerHTML = `错误: ${error.message}`;
+            }
+        }
+        
+        function playTestAlarm() {
+            // 创建简单的警报音
+            const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            const oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
+            oscillator.type = 'square';
+            gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+            
+            oscillator.start();
+            oscillator.stop(audioContext.currentTime + 1); // 播放1秒
+            
+            console.log('播放测试警报音');
+        }
+    </script>
+</body>
+</html>

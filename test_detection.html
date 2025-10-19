@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>无人机检测测试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .upload-area {
+            border: 2px dashed #ccc;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .result-area {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        canvas {
+            max-width: 100%;
+            border: 1px solid #ccc;
+        }
+        .alert {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .alert.success { background-color: #d4edda; color: #155724; }
+        .alert.warning { background-color: #fff3cd; color: #856404; }
+        .alert.error { background-color: #f8d7da; color: #721c24; }
+    </style>
+</head>
+<body>
+    <h1>无人机检测测试页面</h1>
+    
+    <div class="upload-area">
+        <input type="file" id="imageUpload" accept="image/*" style="display: none;">
+        <button onclick="document.getElementById('imageUpload').click()">选择图片进行检测</button>
+        <p>支持 JPG, PNG 格式</p>
+    </div>
+    
+    <div class="result-area">
+        <h3>检测结果:</h3>
+        <canvas id="resultCanvas" style="display: none;"></canvas>
+        <div id="detectionInfo"></div>
+        <div id="alertArea"></div>
+    </div>
+
+    <script>
+        const imageUpload = document.getElementById('imageUpload');
+        const resultCanvas = document.getElementById('resultCanvas');
+        const ctx = resultCanvas.getContext('2d');
+        const detectionInfo = document.getElementById('detectionInfo');
+        const alertArea = document.getElementById('alertArea');
+
+        imageUpload.addEventListener('change', handleImageUpload);
+
+        async function handleImageUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            // 显示图片
+            const img = new Image();
+            img.onload = () => {
+                resultCanvas.width = img.width;
+                resultCanvas.height = img.height;
+                ctx.drawImage(img, 0, 0);
+                resultCanvas.style.display = 'block';
+            };
+            img.src = URL.createObjectURL(file);
+
+            // 上传检测
+            const formData = new FormData();
+            formData.append('image', file);
+
+            try {
+                showAlert('正在检测中...', 'info');
+                const response = await fetch('http://localhost:3000/api/detect-image', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const result = await response.json();
+                console.log('检测结果:', result);
+
+                if (result.success) {
+                    // 绘制检测结果
+                    drawDetectionResults(result.detections || []);
+                    
+                    // 显示检测信息
+                    displayDetectionInfo(result);
+                    
+                    // 显示警报
+                    if (result.droneCount > 0) {
+                        showAlert(`检测完成！发现 ${result.droneCount} 个无人机`, 'warning');
+                        playBeep(); // 播放警报音
+                    } else {
+                        showAlert('检测完成，未发现无人机', 'success');
+                    }
+                } else {
+                    showAlert('检测失败: ' + result.error, 'error');
+                }
+            } catch (error) {
+                console.error('上传失败:', error);
+                showAlert('上传失败: ' + error.message, 'error');
+            }
+        }
+
+        function drawDetectionResults(detections) {
+            if (!detections || detections.length === 0) return;
+
+            ctx.strokeStyle = '#ff0000';
+            ctx.lineWidth = 3;
+            ctx.fillStyle = '#ff0000';
+            ctx.font = '16px Arial';
+
+            detections.forEach((detection, index) => {
+                const { bbox, confidence, class: className } = detection;
+                const [x, y, width, height] = bbox;
+
+                // 绘制边界框
+                ctx.strokeRect(x, y, width, height);
+
+                // 绘制标签背景
+                const label = `${className} ${(confidence * 100).toFixed(1)}%`;
+                const textWidth = ctx.measureText(label).width;
+                ctx.fillRect(x, y - 25, textWidth + 10, 25);
+
+                // 绘制标签文字
+                ctx.fillStyle = '#ffffff';
+                ctx.fillText(label, x + 5, y - 5);
+                ctx.fillStyle = '#ff0000';
+            });
+        }
+
+        function displayDetectionInfo(result) {
+            let html = `
+                <p><strong>检测时间:</strong> ${new Date(result.timestamp).toLocaleTimeString()}</p>
+                <p><strong>无人机数量:</strong> ${result.droneCount || 0}</p>
+                <p><strong>推理时间:</strong> ${result.inferenceTime || 0}ms</p>
+            `;
+            
+            if (result.detections && result.detections.length > 0) {
+                html += '<h4>检测详情:</h4>';
+                result.detections.forEach((detection, index) => {
+                    html += `
+                        <p>无人机 ${index + 1}: 置信度 ${(detection.confidence * 100).toFixed(1)}%, 
+                        位置 (${detection.x}, ${detection.y})</p>
+                    `;
+                });
+            }
+            
+            detectionInfo.innerHTML = html;
+        }
+
+        function showAlert(message, type) {
+            const alertDiv = document.createElement('div');
+            alertDiv.className = `alert ${type}`;
+            alertDiv.textContent = message;
+            alertArea.innerHTML = '';
+            alertArea.appendChild(alertDiv);
+        }
+
+        function playBeep() {
+            // 创建音频上下文播放警报音
+            const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            const oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
+            oscillator.type = 'sine';
+            
+            gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.2);
+            
+            oscillator.start(audioContext.currentTime);
+            oscillator.stop(audioContext.currentTime + 0.2);
+        }
+    </script>
+</body>
+</html>

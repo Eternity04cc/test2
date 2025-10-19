@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图片上传测试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .upload-section {
+            border: 2px dashed #ccc;
+            padding: 20px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .result-section {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        #imageCanvas {
+            max-width: 100%;
+            border: 1px solid #ccc;
+        }
+        .loading {
+            display: none;
+            color: #007bff;
+        }
+        .error {
+            color: #dc3545;
+        }
+        .success {
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <h1>无人机检测 - 图片上传测试</h1>
+    
+    <div class="upload-section">
+        <h3>选择图片进行检测</h3>
+        <input type="file" id="imageUpload" accept="image/*">
+        <div class="loading" id="loading">检测中...</div>
+    </div>
+    
+    <div class="result-section" id="resultSection" style="display: none;">
+        <h3>检测结果</h3>
+        <canvas id="imageCanvas"></canvas>
+        <div id="resultText"></div>
+    </div>
+
+    <script>
+        document.getElementById('imageUpload').addEventListener('change', async function(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const loading = document.getElementById('loading');
+            const resultSection = document.getElementById('resultSection');
+            const canvas = document.getElementById('imageCanvas');
+            const ctx = canvas.getContext('2d');
+            const resultText = document.getElementById('resultText');
+            
+            // 显示加载状态
+            loading.style.display = 'block';
+            resultSection.style.display = 'none';
+            
+            // 显示图片
+            const img = new Image();
+            img.onload = function() {
+                canvas.width = img.width;
+                canvas.height = img.height;
+                ctx.drawImage(img, 0, 0);
+                resultSection.style.display = 'block';
+            };
+            img.src = URL.createObjectURL(file);
+            
+            // 创建FormData
+            const formData = new FormData();
+            formData.append('image', file);
+            
+            try {
+                console.log('开始上传图片...');
+                const response = await fetch('/api/detect-image', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                console.log('响应状态:', response.status);
+                const result = await response.json();
+                console.log('检测结果:', result);
+                
+                if (result.success) {
+                    // 绘制检测结果
+                    if (result.detections && result.detections.length > 0) {
+                        drawDetections(ctx, result.detections);
+                        resultText.innerHTML = `<div class="success">检测完成！发现 ${result.droneCount} 个无人机</div>`;
+                    } else {
+                        resultText.innerHTML = '<div class="success">检测完成，未发现无人机</div>';
+                    }
+                    
+                    // 显示详细信息
+                    resultText.innerHTML += `
+                        <p>推理时间: ${result.inferenceTime || 0}ms</p>
+                        <p>图片尺寸: ${result.imageSize ? result.imageSize.width + 'x' + result.imageSize.height : '未知'}</p>
+                        <p>检测时间: ${new Date(result.timestamp).toLocaleString()}</p>
+                    `;
+                } else {
+                    resultText.innerHTML = `<div class="error">检测失败: ${result.error}</div>`;
+                }
+                
+            } catch (error) {
+                console.error('上传失败:', error);
+                resultText.innerHTML = `<div class="error">上传失败: ${error.message}</div>`;
+            } finally {
+                loading.style.display = 'none';
+            }
+        });
+        
+        function drawDetections(ctx, detections) {
+            ctx.strokeStyle = '#ff0000';
+            ctx.lineWidth = 3;
+            ctx.fillStyle = '#ff0000';
+            ctx.font = '16px Arial';
+            
+            detections.forEach((detection) => {
+                const { bbox, confidence, class: className } = detection;
+                const [x, y, width, height] = bbox;
+                
+                // 绘制边界框
+                ctx.strokeRect(x, y, width, height);
+                
+                // 绘制标签
+                const label = `${className || 'drone'} ${(confidence * 100).toFixed(1)}%`;
+                const textWidth = ctx.measureText(label).width;
+                
+                // 标签背景
+                ctx.fillRect(x, y - 25, textWidth + 10, 25);
+                
+                // 标签文字
+                ctx.fillStyle = '#ffffff';
+                ctx.fillText(label, x + 5, y - 5);
+                ctx.fillStyle = '#ff0000';
+            });
+        }
+    </script>
+</body>
+</html>

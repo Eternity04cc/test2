@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>无人机检测测试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .upload-area {
+            border: 2px dashed #ccc;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .upload-area:hover {
+            border-color: #007bff;
+        }
+        #imageCanvas {
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            max-width: 100%;
+        }
+        .result {
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .success {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+        .warning {
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+        }
+        .error {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>无人机检测测试页面</h1>
+    
+    <div class="upload-area" onclick="document.getElementById('imageInput').click()">
+        <p>点击此处选择图片或拖拽图片到此区域</p>
+        <input type="file" id="imageInput" accept="image/*" style="display: none;">
+    </div>
+    
+    <canvas id="imageCanvas" style="display: none;"></canvas>
+    
+    <div id="result"></div>
+    
+    <script>
+        const imageInput = document.getElementById('imageInput');
+        const imageCanvas = document.getElementById('imageCanvas');
+        const ctx = imageCanvas.getContext('2d');
+        const resultDiv = document.getElementById('result');
+        
+        imageInput.addEventListener('change', handleImageUpload);
+        
+        async function handleImageUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            // 显示上传的图片
+            const img = new Image();
+            img.onload = function() {
+                imageCanvas.width = img.width;
+                imageCanvas.height = img.height;
+                imageCanvas.style.display = 'block';
+                ctx.drawImage(img, 0, 0);
+                
+                // 发送检测请求
+                detectImage(imageCanvas.toDataURL());
+            };
+            img.src = URL.createObjectURL(file);
+        }
+        
+        async function detectImage(imageDataUrl) {
+            try {
+                resultDiv.innerHTML = '<p>正在检测中...</p>';
+                
+                const response = await fetch('/api/detect-image', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ image: imageDataUrl })
+                });
+                
+                const result = await response.json();
+                
+                if (result.success) {
+                    displayResult(result);
+                    drawDetections(result.detections || []);
+                } else {
+                    showError('检测失败: ' + result.error);
+                }
+            } catch (error) {
+                showError('网络错误: ' + error.message);
+            }
+        }
+        
+        function displayResult(result) {
+            const droneCount = result.droneCount || 0;
+            let html = '';
+            
+            if (droneCount > 0) {
+                html = `<div class="result warning">
+                    <h3>⚠️ 检测到无人机！</h3>
+                    <p>发现 ${droneCount} 个无人机目标</p>
+                    <p>检测时间: ${result.inferenceTime || 0}ms</p>
+                </div>`;
+                
+                // 触发警报
+                alert('警报：检测到无人机！');
+            } else {
+                html = `<div class="result success">
+                    <h3>✅ 未检测到无人机</h3>
+                    <p>图片安全，未发现无人机目标</p>
+                    <p>检测时间: ${result.inferenceTime || 0}ms</p>
+                </div>`;
+            }
+            
+            resultDiv.innerHTML = html;
+        }
+        
+        function drawDetections(detections) {
+            // 重新绘制原图
+            const img = new Image();
+            img.onload = function() {
+                ctx.drawImage(img, 0, 0);
+                
+                // 绘制检测框
+                ctx.strokeStyle = '#ff0000';
+                ctx.lineWidth = 3;
+                ctx.font = '16px Arial';
+                ctx.fillStyle = '#ff0000';
+                
+                detections.forEach((detection, index) => {
+                    const [x, y, width, height] = detection.bbox;
+                    
+                    // 绘制边界框
+                    ctx.strokeRect(x, y, width, height);
+                    
+                    // 绘制标签
+                    const label = `${detection.class} ${(detection.confidence * 100).toFixed(1)}%`;
+                    const textWidth = ctx.measureText(label).width;
+                    
+                    // 背景
+                    ctx.fillStyle = '#ff0000';
+                    ctx.fillRect(x, y - 25, textWidth + 10, 20);
+                    
+                    // 文字
+                    ctx.fillStyle = '#ffffff';
+                    ctx.fillText(label, x + 5, y - 8);
+                });
+            };
+            img.src = imageCanvas.toDataURL();
+        }
+        
+        function showError(message) {
+            resultDiv.innerHTML = `<div class="result error">
+                <h3>❌ 错误</h3>
+                <p>${message}</p>
+            </div>`;
+        }
+    </script>
+</body>
+</html>

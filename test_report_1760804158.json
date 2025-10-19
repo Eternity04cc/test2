@@ -1,0 +1,154 @@
+{
+  "timestamp": "2025-10-19 00:15:58",
+  "total_tests": 6,
+  "passed_tests": 6,
+  "failed_tests": 0,
+  "success_rate": 1.0,
+  "total_time_seconds": 40.431620359420776,
+  "overall_status": "passed",
+  "detailed_results": {
+    "environment": {
+      "status": "passed",
+      "python_version": "3.12.2",
+      "cpu_cores": 20,
+      "memory_gb": 31.74596405029297,
+      "packages": [
+        "YOLO",
+        "OpenCV",
+        "NumPy",
+        "PyTorch",
+        "PyYAML",
+        "Pillow",
+        "Matplotlib"
+      ]
+    },
+    "model_loading": {
+      "status": "passed",
+      "tested_models": [
+        "yolov8n.pt",
+        "yolov8s.pt"
+      ]
+    },
+    "inference_performance": {
+      "status": "passed",
+      "overall_avg_time_ms": 127.5944666704163,
+      "overall_fps": 7.83733045871853,
+      "performance_grade": "good",
+      "detailed_results": [
+        {
+          "image": "test_image_1280x720.jpg",
+          "image_size": "1280x720",
+          "avg_time_ms": 295.3268300043419,
+          "std_time_ms": 787.1793880377288,
+          "min_time_ms": 29.78780004195869,
+          "max_time_ms": 2656.849900027737,
+          "fps": 3.386079077154277,
+          "detections": 1
+        },
+        {
+          "image": "test_image_1920x1080.jpg",
+          "image_size": "1920x1080",
+          "avg_time_ms": 33.6543999845162,
+          "std_time_ms": 2.600919344004344,
+          "min_time_ms": 30.394500121474266,
+          "max_time_ms": 39.43819995038211,
+          "fps": 29.713796723759224,
+          "detections": 0
+        },
+        {
+          "image": "test_image_640x640.jpg",
+          "image_size": "640x640",
+          "avg_time_ms": 53.80217002239078,
+          "std_time_ms": 6.681667245844026,
+          "min_time_ms": 49.233000027015805,
+          "max_time_ms": 70.69199997931719,
+          "fps": 18.586610904055195,
+          "detections": 0
+        }
+      ]
+    },
+    "data_configuration": {
+      "status": "passed",
+      "config": {
+        "path": "./drone_dataset",
+        "train": "train/images",
+        "val": "valid/images",
+        "test": "test/images",
+        "nc": 1,
+        "names": [
+          "drone"
+        ],
+        "dataset_info": {
+          "name": "Drone Detection Dataset",
+          "description": "无人机检测专用数据集，用于YOLO26模型训练",
+          "version": "1.0",
+          "total_images": 1012,
+          "classes": [
+            {
+              "id": 0,
+              "name": "drone",
+              "description": "各种类型的无人机目标"
+            }
+          ]
+        },
+        "augmentation": {
+          "hsv_h": 0.015,
+          "hsv_s": 0.7,
+          "hsv_v": 0.4,
+          "degrees": 0.0,
+          "translate": 0.1,
+          "scale": 0.5,
+          "shear": 0.0,
+          "perspective": 0.0,
+          "flipud": 0.0,
+          "fliplr": 0.5,
+          "mosaic": 1.0,
+          "mixup": 0.0
+        }
+      }
+    },
+    "custom_scripts": {
+      "status": "passed",
+      "scripts": {
+        "yolo26_drone_detection.py": {
+          "exists": true,
+          "size_bytes": 22661,
+          "syntax_valid": true
+        },
+        "train_yolo26.py": {
+          "exists": true,
+          "size_bytes": 12911,
+          "syntax_valid": true
+        },
+        "inference_yolo26.py": {
+          "exists": true,
+          "size_bytes": 18817,
+          "syntax_valid": true
+        },
+        "video_detection_yolo26.py": {
+          "exists": true,
+          "size_bytes": 20289,
+          "syntax_valid": true
+        },
+        "openvino_optimization.py": {
+          "exists": true,
+          "size_bytes": 23392,
+          "syntax_valid": true
+        },
+        "requirements.txt": {
+          "exists": true,
+          "package_count": 51
+        }
+      }
+    },
+    "cpu_optimization": {
+      "status": "passed",
+      "torch_version": "2.9.0+cpu",
+      "cpu_threads": 8,
+      "mkldnn_available": true,
+      "openmp_available": true,
+      "performance_time_ms": 5.120870005339384,
+      "performance_level": "excellent"
+    }
+  }
+}

@@ -1,0 +1,1129 @@
+2025-10-19 01:02:48,886 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:02:48,918 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:02:48,918 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:02:50,376 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1405.38ms
+2025-10-19 01:03:26,695 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:03:26,731 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:03:26,731 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:03:50,799 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:03:50,830 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:03:50,830 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:03:52,304 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1459.78ms
+2025-10-19 01:08:01,104 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:08:01,139 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:08:01,140 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:08:02,727 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1570.89ms
+2025-10-19 01:09:26,916 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:26,950 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:26,950 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:28,593 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1633.36ms
+2025-10-19 01:09:29,812 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:29,843 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:29,843 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:31,004 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:31,043 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:31,043 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:31,745 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1887.59ms
+2025-10-19 01:09:33,171 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2112.64ms
+2025-10-19 01:09:33,457 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:33,488 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:33,488 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:35,133 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1634.40ms
+2025-10-19 01:09:35,161 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:35,195 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:35,195 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:36,978 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1770.06ms
+2025-10-19 01:09:37,165 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:37,216 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:37,217 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:39,922 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2684.75ms
+2025-10-19 01:09:40,085 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:40,140 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:40,140 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:41,761 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:41,807 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:41,807 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:42,529 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:42,573 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:42,574 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:42,848 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2690.11ms
+2025-10-19 01:09:44,441 - yolo26_drone_detection - ERROR - 图片检测失败: axes don't match array
+2025-10-19 01:09:44,608 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:44,669 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:44,669 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:45,533 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2940.84ms
+2025-10-19 01:09:46,704 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:46,772 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:46,772 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:47,986 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时3298.50ms
+2025-10-19 01:09:48,464 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:48,514 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:48,514 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:49,718 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2927.98ms
+2025-10-19 01:09:50,120 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:50,166 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:50,166 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:51,313 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2784.35ms
+2025-10-19 01:09:51,917 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:51,956 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:51,956 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:52,236 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2052.15ms
+2025-10-19 01:09:53,484 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:53,518 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:53,518 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:53,948 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1978.82ms
+2025-10-19 01:09:55,702 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:55,744 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:55,744 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:55,867 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2337.73ms
+2025-10-19 01:09:57,639 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:57,657 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1897.09ms
+2025-10-19 01:09:57,673 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:57,674 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:59,317 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:09:59,349 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:09:59,349 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:09:59,653 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1967.01ms
+2025-10-19 01:10:01,353 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1990.34ms
+2025-10-19 01:10:01,461 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:01,513 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:01,513 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:03,657 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:03,712 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2184.38ms
+2025-10-19 01:10:03,715 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:03,715 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:05,681 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:05,727 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:05,728 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:05,866 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2137.21ms
+2025-10-19 01:10:07,617 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:07,652 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:07,652 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:07,947 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2205.67ms
+2025-10-19 01:10:09,749 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:09,790 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:09,790 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:09,979 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2313.41ms
+2025-10-19 01:10:11,822 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:11,869 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:11,869 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:11,896 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2092.46ms
+2025-10-19 01:10:13,420 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:13,455 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:13,455 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:13,755 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1872.94ms
+2025-10-19 01:10:15,219 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:15,266 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:15,266 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:15,334 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1866.48ms
+2025-10-19 01:10:17,402 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2120.54ms
+2025-10-19 01:10:17,452 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:17,501 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:17,501 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:19,540 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2028.05ms
+2025-10-19 01:10:19,625 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:19,660 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:19,660 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:21,371 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:21,403 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:21,403 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:21,541 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1867.16ms
+2025-10-19 01:10:23,207 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:23,246 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:23,246 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:23,291 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1877.57ms
+2025-10-19 01:10:25,354 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2096.09ms
+2025-10-19 01:10:25,371 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:25,414 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:25,415 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:27,369 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1944.11ms
+2025-10-19 01:10:27,521 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:27,568 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:27,568 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:29,392 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1812.99ms
+2025-10-19 01:10:30,270 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:30,305 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:30,305 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:31,059 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:31,095 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:31,095 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:32,317 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2001.14ms
+2025-10-19 01:10:33,212 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2106.04ms
+2025-10-19 01:10:33,417 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:33,447 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:33,447 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:35,132 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1675.29ms
+2025-10-19 01:10:35,287 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:35,324 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:35,324 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:37,110 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1772.89ms
+2025-10-19 01:10:37,166 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:37,217 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:37,217 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:39,182 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1951.07ms
+2025-10-19 01:10:40,322 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:40,362 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:40,362 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:41,516 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:41,549 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:41,549 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:42,241 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1866.89ms
+2025-10-19 01:10:43,421 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1859.78ms
+2025-10-19 01:10:45,121 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:45,122 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:45,167 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:45,167 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:45,168 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:45,169 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:47,317 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2136.69ms
+2025-10-19 01:10:47,321 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2139.70ms
+2025-10-19 01:10:47,366 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:47,404 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:47,404 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:49,255 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1837.61ms
+2025-10-19 01:10:49,482 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:49,523 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:49,524 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:51,144 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:51,181 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:51,181 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:51,380 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1845.49ms
+2025-10-19 01:10:53,093 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1896.65ms
+2025-10-19 01:10:53,253 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:53,298 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:53,298 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:55,498 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:55,539 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2228.03ms
+2025-10-19 01:10:55,544 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:55,544 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:57,613 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2057.47ms
+2025-10-19 01:10:57,849 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:57,899 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:57,899 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:59,527 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:10:59,563 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:10:59,563 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:10:59,885 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1972.40ms
+2025-10-19 01:11:01,525 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:01,580 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:01,580 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:01,798 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2222.84ms
+2025-10-19 01:11:03,963 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2368.07ms
+2025-10-19 01:11:04,085 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:04,122 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:04,122 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:05,719 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:05,758 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:05,758 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:06,114 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1978.24ms
+2025-10-19 01:11:07,562 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:07,607 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:07,607 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:07,960 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2189.43ms
+2025-10-19 01:11:09,876 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:09,883 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2261.47ms
+2025-10-19 01:11:09,929 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:09,930 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:11,827 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:11,863 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:11,863 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:12,049 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2101.90ms
+2025-10-19 01:11:13,707 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:13,742 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:13,743 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:14,055 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2178.96ms
+2025-10-19 01:11:15,775 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:15,810 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:15,810 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:15,933 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2177.23ms
+2025-10-19 01:11:17,868 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:17,909 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:17,909 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:18,176 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2353.73ms
+2025-10-19 01:11:19,784 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:19,828 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:19,828 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:19,889 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1966.71ms
+2025-10-19 01:11:21,332 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:21,372 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:21,372 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:21,686 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1844.20ms
+2025-10-19 01:11:23,084 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1699.23ms
+2025-10-19 01:11:23,158 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:23,205 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:23,205 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:25,125 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1907.79ms
+2025-10-19 01:11:25,249 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:25,290 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:25,290 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:27,017 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1713.46ms
+2025-10-19 01:11:27,168 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:27,200 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:27,200 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:29,010 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1796.99ms
+2025-10-19 01:11:29,085 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:29,118 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:29,118 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:30,761 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1631.35ms
+2025-10-19 01:11:31,072 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:31,126 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:31,126 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:33,104 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1964.74ms
+2025-10-19 01:11:33,289 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:33,326 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:33,326 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:35,131 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1792.72ms
+2025-10-19 01:11:35,276 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:35,317 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:35,317 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:37,059 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1730.42ms
+2025-10-19 01:11:37,080 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:37,115 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:37,115 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:38,980 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1852.44ms
+2025-10-19 01:11:39,192 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:39,228 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:39,228 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:41,230 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1989.96ms
+2025-10-19 01:11:41,541 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:41,575 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:41,575 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:43,115 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:43,153 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:43,153 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:43,243 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1657.06ms
+2025-10-19 01:11:44,889 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1721.09ms
+2025-10-19 01:11:45,006 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:45,039 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:45,040 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:46,908 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1858.27ms
+2025-10-19 01:11:47,213 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:47,254 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:47,254 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:48,961 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1695.92ms
+2025-10-19 01:11:49,285 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:49,318 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:49,318 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:50,988 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1657.54ms
+2025-10-19 01:11:52,012 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:52,053 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:52,053 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:53,833 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1766.66ms
+2025-10-19 01:11:54,073 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:54,106 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:54,106 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:55,258 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:55,293 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:55,293 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:56,121 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1998.75ms
+2025-10-19 01:11:57,123 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1820.13ms
+2025-10-19 01:11:57,322 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:57,351 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:57,351 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:11:59,104 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1742.32ms
+2025-10-19 01:11:59,124 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:11:59,163 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:11:59,163 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:00,912 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1735.85ms
+2025-10-19 01:12:01,137 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:01,187 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:01,187 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:03,129 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1928.30ms
+2025-10-19 01:12:03,265 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:03,310 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:03,310 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:04,954 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1628.50ms
+2025-10-19 01:12:05,142 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:05,181 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:05,181 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:06,986 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1789.76ms
+2025-10-19 01:12:07,128 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:07,159 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:07,159 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:08,918 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1746.42ms
+2025-10-19 01:12:10,097 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:10,143 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:10,143 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:11,977 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1819.75ms
+2025-10-19 01:12:12,366 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:12,404 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:12,404 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:13,204 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:13,240 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:13,240 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:14,306 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1888.08ms
+2025-10-19 01:12:15,190 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1936.53ms
+2025-10-19 01:12:15,418 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:15,470 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:15,471 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:17,654 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:17,699 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:17,699 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:17,703 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2220.96ms
+2025-10-19 01:12:19,702 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:19,735 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2022.89ms
+2025-10-19 01:12:19,741 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:19,742 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:21,369 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:21,411 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:21,411 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:21,672 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1918.27ms
+2025-10-19 01:12:23,239 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:23,275 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1852.71ms
+2025-10-19 01:12:23,284 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:23,285 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:25,411 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2111.74ms
+2025-10-19 01:12:25,522 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:25,565 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:25,565 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:27,469 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1891.38ms
+2025-10-19 01:12:27,557 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:27,606 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:27,606 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:29,425 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:29,460 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:29,460 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:29,623 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2000.16ms
+2025-10-19 01:12:31,461 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:31,462 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1991.52ms
+2025-10-19 01:12:31,532 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:31,532 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:33,672 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2122.03ms
+2025-10-19 01:12:34,702 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:34,738 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:34,739 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:35,571 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:35,612 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:35,612 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:44,620 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:44,656 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:44,656 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:44,714 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:44,745 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:44,745 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:44,755 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:44,794 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:44,794 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:45,657 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:45,693 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:45,693 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:46,774 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2106.83ms
+2025-10-19 01:12:46,959 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2199.32ms
+2025-10-19 01:12:47,050 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2242.59ms
+2025-10-19 01:12:48,582 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2875.60ms
+2025-10-19 01:12:48,612 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:48,653 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:48,654 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:50,617 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:12:50,624 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1957.37ms
+2025-10-19 01:12:50,652 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:12:50,652 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:12:52,648 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1981.37ms
+2025-10-19 01:13:02,698 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:13:02,739 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:13:02,739 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:13:04,371 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1614.16ms
+2025-10-19 01:14:49,826 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:14:49,861 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:14:49,861 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:14:51,576 - yolo26_drone_detection - ERROR - 图片检测失败: axes don't match array
+2025-10-19 01:15:12,650 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:15:12,694 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:15:12,694 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:15:14,577 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1865.79ms
+2025-10-19 01:17:25,723 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:25,753 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:25,753 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:27,606 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1842.82ms
+2025-10-19 01:17:27,796 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:27,831 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:27,831 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:29,724 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1884.34ms
+2025-10-19 01:17:30,216 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:30,266 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:30,266 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:32,543 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:32,588 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:32,589 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:32,603 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2320.15ms
+2025-10-19 01:17:35,390 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:35,438 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:35,438 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:35,453 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2854.74ms
+2025-10-19 01:17:37,097 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:37,140 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:37,140 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:37,388 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:37,432 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:37,432 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:37,554 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2099.06ms
+2025-10-19 01:17:39,491 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2340.04ms
+2025-10-19 01:17:39,945 - yolo26_drone_detection - ERROR - 图片检测失败: list index out of range
+2025-10-19 01:17:41,037 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:41,085 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:41,086 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:41,609 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:41,645 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:41,645 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:43,248 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2148.50ms
+2025-10-19 01:17:43,469 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:43,518 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:43,518 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:43,973 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2314.75ms
+2025-10-19 01:17:45,321 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:45,356 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:45,356 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:45,885 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2352.01ms
+2025-10-19 01:17:47,446 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:47,496 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:47,497 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:47,881 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2513.07ms
+2025-10-19 01:17:48,840 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:48,878 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:48,878 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:49,763 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2247.36ms
+2025-10-19 01:17:50,958 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2067.08ms
+2025-10-19 01:17:51,664 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:51,698 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:51,698 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:52,351 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:52,386 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:52,386 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:53,957 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2244.86ms
+2025-10-19 01:17:54,130 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:54,173 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:54,174 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:54,865 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2463.86ms
+2025-10-19 01:17:55,545 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:55,583 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:55,583 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:56,605 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2409.72ms
+2025-10-19 01:17:56,919 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:56,954 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:56,954 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:57,775 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2180.05ms
+2025-10-19 01:17:58,661 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:17:58,695 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:17:58,695 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:17:59,077 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2111.32ms
+2025-10-19 01:18:00,278 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:00,311 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:00,311 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:00,577 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1869.18ms
+2025-10-19 01:18:02,520 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2198.85ms
+2025-10-19 01:18:02,892 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:02,940 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:02,940 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:04,983 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2030.66ms
+2025-10-19 01:18:05,082 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:05,129 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:05,129 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:07,305 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2162.73ms
+2025-10-19 01:18:08,010 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:08,053 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:08,054 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:08,915 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:08,951 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:08,951 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:10,044 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1978.71ms
+2025-10-19 01:18:10,973 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:11,015 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:11,015 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:11,292 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2329.64ms
+2025-10-19 01:18:12,883 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1854.20ms
+2025-10-19 01:18:13,126 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:13,161 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:13,161 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:14,485 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:14,516 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:14,516 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:14,858 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1682.33ms
+2025-10-19 01:18:16,274 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1744.60ms
+2025-10-19 01:18:16,448 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:16,482 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:16,482 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:18,576 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2082.53ms
+2025-10-19 01:18:19,831 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:19,867 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:19,867 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:20,678 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:20,712 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:20,712 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:21,903 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2022.80ms
+2025-10-19 01:18:22,697 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:22,741 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2017.24ms
+2025-10-19 01:18:22,746 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:22,746 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:22,828 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:22,875 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:22,875 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:24,881 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2116.29ms
+2025-10-19 01:18:24,959 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:25,009 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:25,009 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:25,013 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2123.83ms
+2025-10-19 01:18:27,019 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1994.61ms
+2025-10-19 01:18:27,052 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:27,093 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:27,093 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:28,726 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:28,760 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:28,760 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:28,879 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1773.59ms
+2025-10-19 01:18:30,436 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:30,487 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:30,502 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:30,534 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1763.63ms
+2025-10-19 01:18:32,304 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1787.64ms
+2025-10-19 01:18:32,470 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:32,506 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:32,506 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:34,204 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1687.22ms
+2025-10-19 01:18:34,514 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:34,560 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:34,561 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:36,153 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1581.37ms
+2025-10-19 01:18:36,300 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:36,336 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:36,337 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:37,876 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1529.47ms
+2025-10-19 01:18:38,191 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:38,228 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:38,228 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:39,911 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1670.67ms
+2025-10-19 01:18:40,446 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:40,494 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:40,494 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:42,075 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1570.18ms
+2025-10-19 01:18:42,395 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:42,430 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:42,430 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:43,995 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1556.02ms
+2025-10-19 01:18:44,259 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:44,293 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:44,293 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:45,831 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1526.15ms
+2025-10-19 01:18:46,208 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:46,249 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:46,249 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:47,991 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1729.86ms
+2025-10-19 01:18:48,422 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:48,454 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:48,455 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:49,982 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1515.91ms
+2025-10-19 01:18:50,248 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:50,282 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:50,282 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:51,858 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1564.71ms
+2025-10-19 01:18:52,212 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:52,247 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:52,247 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:53,767 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1508.65ms
+2025-10-19 01:18:54,216 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:54,250 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:54,250 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:55,953 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1690.78ms
+2025-10-19 01:18:56,387 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:56,421 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:56,421 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:57,945 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1514.02ms
+2025-10-19 01:18:58,154 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:18:58,190 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:18:58,190 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:18:59,720 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1520.15ms
+2025-10-19 01:19:00,181 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:00,226 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:00,226 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:01,835 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1597.81ms
+2025-10-19 01:19:02,236 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:02,267 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:02,267 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:03,848 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1568.19ms
+2025-10-19 01:19:05,309 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:05,338 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:05,338 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:06,095 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:06,125 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:06,125 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:06,916 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1566.40ms
+2025-10-19 01:19:07,734 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1599.10ms
+2025-10-19 01:19:08,193 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:08,224 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:08,224 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:09,947 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1712.38ms
+2025-10-19 01:19:10,295 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:10,329 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:10,329 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:11,992 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1651.34ms
+2025-10-19 01:19:12,443 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:12,473 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:12,473 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:13,973 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1489.70ms
+2025-10-19 01:19:15,154 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:15,183 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:15,183 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:16,053 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:16,086 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:16,086 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:16,815 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1620.70ms
+2025-10-19 01:19:17,970 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1872.10ms
+2025-10-19 01:19:18,398 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:18,433 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:18,433 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:19,978 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1535.90ms
+2025-10-19 01:19:20,248 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:20,277 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:20,277 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:21,831 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1542.02ms
+2025-10-19 01:19:22,167 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:22,198 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:22,199 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:23,813 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1603.23ms
+2025-10-19 01:19:24,259 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:24,292 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:24,293 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:26,268 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1961.97ms
+2025-10-19 01:19:26,716 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:26,747 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:26,747 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:28,299 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1539.97ms
+2025-10-19 01:19:28,308 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:28,354 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:28,354 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:30,263 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1897.98ms
+2025-10-19 01:19:30,478 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:30,505 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:30,505 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:32,498 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1983.04ms
+2025-10-19 01:19:32,872 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:32,930 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:32,930 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:34,849 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1907.58ms
+2025-10-19 01:19:34,914 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:34,958 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:34,959 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:36,725 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:36,758 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:36,758 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:37,002 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2030.54ms
+2025-10-19 01:19:38,867 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2095.27ms
+2025-10-19 01:19:38,890 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:38,921 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:38,921 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:40,874 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1940.02ms
+2025-10-19 01:19:41,843 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:41,883 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:41,883 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:42,731 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:42,767 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:42,767 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:44,052 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2156.07ms
+2025-10-19 01:19:44,758 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1976.93ms
+2025-10-19 01:19:44,805 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:44,847 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:44,847 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:46,644 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1783.35ms
+2025-10-19 01:19:46,762 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:46,810 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:46,810 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:48,691 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1868.71ms
+2025-10-19 01:19:48,705 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:48,741 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:48,741 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:50,391 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1639.19ms
+2025-10-19 01:19:50,465 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:50,505 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:50,505 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:52,238 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1721.61ms
+2025-10-19 01:19:52,402 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:52,434 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:52,434 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:54,064 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1618.80ms
+2025-10-19 01:19:55,285 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:55,315 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:55,315 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:56,169 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:56,211 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:56,211 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:19:57,112 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1784.66ms
+2025-10-19 01:19:58,376 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2153.64ms
+2025-10-19 01:19:58,924 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:19:58,958 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:19:58,959 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:01,379 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:01,482 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:01,482 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:01,512 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2538.19ms
+2025-10-19 01:20:03,666 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:03,704 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:03,704 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:03,983 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2477.80ms
+2025-10-19 01:20:05,306 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:05,346 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:05,347 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:05,675 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1957.52ms
+2025-10-19 01:20:06,842 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:06,878 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:06,878 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:07,384 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2016.15ms
+2025-10-19 01:20:08,799 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:08,839 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1949.53ms
+2025-10-19 01:20:08,843 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:08,843 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:10,827 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:10,872 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:10,872 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:10,913 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2058.79ms
+2025-10-19 01:20:12,627 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:12,670 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:12,670 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:12,684 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1798.62ms
+2025-10-19 01:20:14,351 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1669.27ms
+2025-10-19 01:20:14,378 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:14,419 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:14,420 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:16,194 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1765.24ms
+2025-10-19 01:20:16,496 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:16,541 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:16,541 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:18,454 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1901.11ms
+2025-10-19 01:20:18,776 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:18,810 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:18,810 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:20,441 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1619.51ms
+2025-10-19 01:20:20,447 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:20,483 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:20,483 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:22,119 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1623.64ms
+2025-10-19 01:20:23,268 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:23,304 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:23,304 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:24,314 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:24,359 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:24,359 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:25,238 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1920.21ms
+2025-10-19 01:20:26,391 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时2019.77ms
+2025-10-19 01:20:26,737 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:26,770 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:26,770 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:28,368 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1587.33ms
+2025-10-19 01:20:28,424 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:28,456 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:28,457 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:30,105 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1635.00ms
+2025-10-19 01:20:30,323 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:30,357 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:30,357 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:32,067 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1699.57ms
+2025-10-19 01:20:32,368 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:32,403 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:32,403 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:34,098 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1685.07ms
+2025-10-19 01:20:34,485 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:34,515 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:34,515 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:36,103 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1574.89ms
+2025-10-19 01:20:36,229 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:36,270 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:36,270 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:37,874 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1592.88ms
+2025-10-19 01:20:38,232 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:38,265 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:38,265 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:40,064 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1790.00ms
+2025-10-19 01:20:40,366 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:40,416 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:40,416 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:42,074 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1645.07ms
+2025-10-19 01:20:42,457 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:42,498 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:42,498 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:44,184 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1673.08ms
+2025-10-19 01:20:44,359 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:44,388 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:44,389 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:45,980 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1579.89ms
+2025-10-19 01:20:46,279 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:46,309 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:46,309 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:48,165 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1843.14ms
+2025-10-19 01:20:48,557 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:48,592 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:48,593 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:50,227 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1622.77ms
+2025-10-19 01:20:50,307 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:50,345 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:50,345 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:51,896 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1539.04ms
+2025-10-19 01:20:52,248 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:52,282 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:52,282 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:53,869 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1576.22ms
+2025-10-19 01:20:54,233 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:54,277 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:54,277 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:56,013 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1723.33ms
+2025-10-19 01:20:56,405 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:56,440 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:56,440 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:58,020 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1568.47ms
+2025-10-19 01:20:58,266 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:20:58,298 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:20:58,298 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:20:59,855 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1546.78ms
+2025-10-19 01:21:00,244 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:00,282 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:00,282 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:02,005 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1710.67ms
+2025-10-19 01:21:02,468 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:02,502 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:02,503 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:04,213 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1698.03ms
+2025-10-19 01:21:04,527 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:04,561 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:04,561 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:06,138 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1565.81ms
+2025-10-19 01:21:06,317 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:06,356 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:06,356 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:07,938 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1571.19ms
+2025-10-19 01:21:08,234 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:08,264 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:08,264 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:10,000 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1723.28ms
+2025-10-19 01:21:10,381 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:10,416 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:10,416 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:12,069 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1639.30ms
+2025-10-19 01:21:12,511 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:12,545 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:12,545 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:14,125 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1568.84ms
+2025-10-19 01:21:14,245 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:14,276 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:14,277 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:15,874 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1587.68ms
+2025-10-19 01:21:16,266 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:16,312 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:16,312 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:18,190 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1866.40ms
+2025-10-19 01:21:18,450 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:18,482 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:18,482 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:20,030 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1538.82ms
+2025-10-19 01:21:20,281 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:20,316 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:20,316 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:21,906 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1580.22ms
+2025-10-19 01:21:22,262 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:22,298 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:22,298 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:23,991 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1679.98ms
+2025-10-19 01:21:24,338 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:24,373 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:24,374 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:26,198 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1813.22ms
+2025-10-19 01:21:26,539 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:26,575 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:26,575 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:28,196 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1609.73ms
+2025-10-19 01:21:28,314 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:28,350 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:28,350 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:30,062 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1700.38ms
+2025-10-19 01:21:30,353 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:30,389 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:30,389 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:32,221 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1820.82ms
+2025-10-19 01:21:32,520 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:32,565 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:32,565 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:34,238 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1657.25ms
+2025-10-19 01:21:34,556 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:34,598 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:34,598 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:36,291 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1681.98ms
+2025-10-19 01:21:36,351 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:36,385 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:36,385 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:38,066 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1668.55ms
+2025-10-19 01:21:38,321 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:38,355 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:38,355 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:40,018 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1652.17ms
+2025-10-19 01:21:40,412 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:40,444 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:40,445 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:42,077 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1621.39ms
+2025-10-19 01:21:42,309 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:42,344 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:42,344 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:44,013 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1658.38ms
+2025-10-19 01:21:44,361 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:44,396 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:44,397 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:46,083 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1676.62ms
+2025-10-19 01:21:46,316 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:46,354 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:46,354 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:48,254 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1888.19ms
+2025-10-19 01:21:48,639 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:48,674 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:48,674 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:50,336 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1650.61ms
+2025-10-19 01:21:50,522 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:50,554 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:50,554 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:52,245 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1681.05ms
+2025-10-19 01:21:52,347 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:52,383 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:52,383 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:54,007 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1608.84ms
+2025-10-19 01:21:54,331 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:54,367 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:54,367 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:56,171 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1792.47ms
+2025-10-19 01:21:57,537 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:57,570 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:57,570 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:58,208 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:21:58,236 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:21:58,236 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:21:59,236 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1655.33ms
+2025-10-19 01:21:59,923 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1675.22ms
+2025-10-19 01:22:00,292 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:00,323 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:00,324 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:01,986 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1652.38ms
+2025-10-19 01:22:02,311 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:02,345 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:02,346 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:04,001 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1646.16ms
+2025-10-19 01:22:04,453 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:04,484 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:04,484 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:06,098 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1602.07ms
+2025-10-19 01:22:06,245 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:06,292 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:06,292 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:07,954 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1652.02ms
+2025-10-19 01:22:08,328 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:08,369 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:08,369 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:10,224 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1843.26ms
+2025-10-19 01:22:10,530 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:10,563 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:10,563 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:12,182 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1607.77ms
+2025-10-19 01:22:12,471 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:12,506 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:12,506 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:14,141 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1623.45ms
+2025-10-19 01:22:14,258 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:14,291 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:14,291 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:15,856 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1554.71ms
+2025-10-19 01:22:16,176 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:16,210 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:16,210 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:18,039 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1815.98ms
+2025-10-19 01:22:19,373 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:19,403 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:19,403 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:20,239 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:20,269 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:20,269 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:21,003 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1588.72ms
+2025-10-19 01:22:21,922 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1642.12ms
+2025-10-19 01:22:22,220 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:22,259 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:22,259 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:23,824 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1555.44ms
+2025-10-19 01:22:24,246 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:24,277 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:24,277 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:26,018 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1729.93ms
+2025-10-19 01:22:26,398 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:26,432 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:26,432 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:28,013 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1571.34ms
+2025-10-19 01:22:28,293 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:28,329 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:28,329 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:29,898 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1557.84ms
+2025-10-19 01:22:30,254 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:30,290 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:30,291 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:31,934 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1631.50ms
+2025-10-19 01:22:32,332 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:32,366 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:32,366 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:34,027 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1648.67ms
+2025-10-19 01:22:34,458 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:34,490 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:34,490 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:36,124 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1621.82ms
+2025-10-19 01:22:36,286 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:36,316 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:36,316 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:37,893 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1565.67ms
+2025-10-19 01:22:38,207 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:38,238 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:38,238 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:40,075 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1825.36ms
+2025-10-19 01:22:40,465 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:40,506 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:40,506 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:42,300 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1778.58ms
+2025-10-19 01:22:42,630 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:42,664 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:42,664 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:44,305 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1629.78ms
+2025-10-19 01:22:44,345 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:44,381 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:44,381 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:46,002 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1609.58ms
+2025-10-19 01:22:46,301 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:46,335 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:46,335 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:48,192 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1846.73ms
+2025-10-19 01:22:48,482 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:48,522 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:48,522 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:50,169 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1636.07ms
+2025-10-19 01:22:50,445 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:50,474 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:50,474 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:52,209 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1724.61ms
+2025-10-19 01:22:52,380 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:52,439 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:52,439 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:54,104 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1649.92ms
+2025-10-19 01:22:54,501 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:54,534 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:54,534 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:56,312 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1767.11ms
+2025-10-19 01:22:57,508 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:57,541 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:57,542 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:58,249 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:22:58,288 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:22:58,288 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:22:59,356 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1803.52ms
+2025-10-19 01:23:00,231 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1931.17ms
+2025-10-19 01:23:00,553 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:23:00,586 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:23:00,587 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:23:02,493 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1895.72ms
+2025-10-19 01:23:02,710 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:23:02,748 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:23:02,748 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:23:04,565 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1805.67ms
+2025-10-19 01:23:04,724 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:23:04,770 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:23:04,770 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:23:06,373 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1589.86ms
+2025-10-19 01:23:06,423 - yolo26_drone_detection - INFO - CPU优化设置完成，使用4个线程
+2025-10-19 01:23:06,455 - yolo26_drone_detection - INFO - 模型加载成功: D:\Desktop\hackthon\wu_ren_ji\Drone-Detection-YOLOv7-main\yolov8n.pt
+2025-10-19 01:23:06,456 - yolo26_drone_detection - INFO - YOLO26无人机检测器初始化完成，使用设备: cpu
+2025-10-19 01:23:08,143 - yolo26_drone_detection - INFO - 检测完成: 发现0个无人机目标，耗时1676.49ms

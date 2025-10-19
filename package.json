@@ -1,0 +1,40 @@
+{
+  "name": "drone-detection-system",
+  "version": "1.0.0",
+  "description": "基于YOLO26和Node.js的无人机检测系统",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "install-deps": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drone",
+    "detection",
+    "yolo",
+    "nodejs",
+    "express",
+    "websocket",
+    "ai",
+    "computer-vision"
+  ],
+  "author": "Drone Detection Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4",
+    "multer": "^1.4.5-lts.1",
+    "cors": "^2.8.5",
+    "@google/generative-ai": "^0.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
